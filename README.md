@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Toohak Logo](https://raw.githubusercontent.com/maxsonchen/Toohak/main/assets/toohak-logo.png)
+<img src="https://raw.githubusercontent.com/maxsonchen/Toohak/main/assets/toohak-logo.png" alt="Toohak Logo" width="200" height="200"/>
 
 **Robust, scalable backend architecture powering an interactive Kahoot-style quiz platform**
 
