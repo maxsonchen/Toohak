@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/maxsonchen/Toohak/main/assets/toohak-logo.png" alt="Toohak Logo" width="200" height="200"/>
 
-**Robust, scalable backend architecture powering an interactive Kahoot-style quiz platform**
+**Kahoot Style Quiz Platform developed for a University Project in a group of 4**
 
 [![Node.js](https://img.shields.io/badge/Node.js-18+-green.svg)](https://nodejs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue.svg)](https://www.typescriptlang.org/)
